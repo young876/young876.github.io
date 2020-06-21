@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://young876.github.io</id>
     <title>young876</title>
-    <updated>2020-06-19T06:17:18.985Z</updated>
+    <updated>2020-06-21T02:56:38.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://young876.github.io"/>
     <link rel="self" href="https://young876.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://young876.github.io/images/avatar.png</logo>
     <icon>https://young876.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, young876</rights>
+    <entry>
+        <title type="html"><![CDATA[武汉，一座因疫情而被按下暂停键的城市]]></title>
+        <id>https://young876.github.io/post/wu-han-yi-zuo-yin-yi-qing-er-bei-an-xia-zan-ting-jian-de-cheng-shi/</id>
+        <link href="https://young876.github.io/post/wu-han-yi-zuo-yin-yi-qing-er-bei-an-xia-zan-ting-jian-de-cheng-shi/">
+        </link>
+        <updated>2020-06-21T02:53:59.000Z</updated>
+        <content type="html"><![CDATA[<p>武汉，加油</p>
+<p>作词：百无一用</p>
+<p>作曲：段光宝</p>
+<p>隔离为了自由，</p>
+<p>封城为了守候，</p>
+<p>面对病毒，面对灾难，</p>
+<p>医生冲在最前头。</p>
+<p>疏散为了凝聚，</p>
+<p>停业为了宏图，</p>
+<p>拒绝野味，拒绝杀生，</p>
+<p>欲望是灾难的源头。</p>
+<p>武汉加油，武汉加油。</p>
+<p>人人带起防护罩，</p>
+<p>保护自己无需理由。</p>
+<p>武汉加油，武汉加油，</p>
+<p>人人献出爱心手，</p>
+<p>健康生活人人有。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为武汉打CALL]]></title>
         <id>https://young876.github.io/post/wei-wu-han-da-call/</id>
